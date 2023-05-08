@@ -12,5 +12,7 @@ Choosing the correct ESP32 pins for the buttons might take some trial and errorâ
 
 <h2>Software</h2>
 
+ESP32 tone library: https://github.com/weedmanu/ToneESP32. I've also included the library folder (ToneESP32) above.
+
 
 <h2>Enclosure</h2>
