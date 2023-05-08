@@ -50,8 +50,16 @@ For the legs, cut out twelve elongated trapezoids with the dimensions given belo
 To create the hood, trace the body of the piano on sturdy paperboard and cut around so the hood is slightly bigger (so it can rest on the rim without falling through). Cut the hood across about 4.5 inches from the wider end to create the part that folds back. Attach two short pieces of bendy paperboard to connect the pieces you just cut (these will act like the hinges). Check to make sure it's easy to open and close the lid. It should look something like this: 
 ![IMG_9375](https://user-images.githubusercontent.com/34355688/236876712-71390613-9b86-4989-a096-dd40b9d1c39f.jpg)
 
-<h3>Keyboard</h3>
-The keyboard is made out of three pieces all made from bendy paperboard. It will rest on an L-shaped box which is closed in on other side by rectangular prisms. Dimensions are shown below (cut on solid lines, fold on dashed lines): 
+<h3>Keyboard and music stand</h3>
+The keyboard is made out of three pieces all made from bendy paperboard. It will rest on an L-shaped box which is closed in on other side by rectangular prisms. Either laser cut (recommended for extra precision) or just cut out the keys from sturdy paperboard and paint the white keys white and everything else black. Once the keyboard boxes are cut out, glue the boxes to either side of the L-shaped box, paint it black, and glue it to the part of the frame that sticks out in the front. Dimensions are shown below (cut on solid lines, fold on dashed lines): 
 
-<img width="1002" alt="Screen Shot 2023-05-08 at 12 43 38 PM" src="https://user-images.githubusercontent.com/34355688/236881647-ee19f82a-c83b-41fb-9784-add7c341e3f2.png">
+<img width="1009" alt="Screen Shot 2023-05-08 at 12 53 22 PM" src="https://user-images.githubusercontent.com/34355688/236883927-4ca481ba-9393-4c46-b90f-5361a0528921.png">
+
+For the music stand, cut pieces of sturdy paperboard as shown below. Attach two "hinges" on either side of the rim to support the music stand. This piece will not be glued to the frame so that the keyboard can be easily removed. 
+
+<h3>Putting everything together</h3>
+Attach the lid of the piano with another hinge (only on one side!). Cut out a thin, long piece of sturdy paperboard and reinforce it on one end with another piece of paperboard. Anchor this down right behind the keyboard and fold it over so it doesn't interfere with the lid. This will act as the prop. Check that when the lid is open and the prop is unfolded, it can support the lid. It should look something like this: 
+
+![IMG_9383](https://user-images.githubusercontent.com/34355688/236887814-052a6fe3-2d58-4b04-ba6b-68d31df5ef7f.JPG)
+
 
