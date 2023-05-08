@@ -24,7 +24,7 @@ To get the code working, simply flash it onto the ESP32 and connect all the hard
 The bulk of the work went into building the enclosure and figuring out how to build the keyboard without making the buttons visible. I used the following materials:
 
 <ul>
-  <li>A decent supply of thin and thick paperboard</li>
+  <li>A decent supply of thin (bendy) and thick (sturdy) paperboard</li>
   <li>Corrugated cardboard</li>
   <li>Black origami paper</li>
   <li>Black and white acrylic paint</li>
@@ -43,6 +43,15 @@ To make the base, cut out a grand piano shaped size of sturdy paperboard. Mine h
 
 ![IMG_9128](https://user-images.githubusercontent.com/34355688/236874543-0252b8ef-d431-4921-b5af-e4015e178fdc.png)
 
-For the legs, cut out twelve elongated trapezoids with the dimensions given below out of sturdy paperboard. For each leg, glue four of the pieces together to create a tapered rectangular prism. Glue two of the legs on either side of the front of the piano and the last leg in the back. 
+For the legs, cut out twelve elongated trapezoids with the dimensions given below out of sturdy paperboard. For each leg, glue four of the pieces together to create a tapered rectangular prism. Paint the legs black then glue two of the legs on either side of the front of the piano and the last leg in the back. 
 
-<img width="936" alt="Screen Shot 2023-05-08 at 11 57 11 AM" src="https://user-images.githubusercontent.com/34355688/236871769-3c8a4ce4-e877-4e26-b24c-9b33391f1be1.png">
+<img width="936" alt="Screen Shot 2023-05-08 at 11 57 11 AM" src="https://user-images.githubusercontent.com/34355688/236871769-3c8a4ce4-e877-4e26-b24c-9b33391f1be1.png"> 
+
+To create the hood, trace the body of the piano on sturdy paperboard and cut around so the hood is slightly bigger (so it can rest on the rim without falling through). Cut the hood across about 4.5 inches from the wider end to create the part that folds back. Attach two short pieces of bendy paperboard to connect the pieces you just cut (these will act like the hinges). Check to make sure it's easy to open and close the lid. It should look something like this: 
+![IMG_9375](https://user-images.githubusercontent.com/34355688/236876712-71390613-9b86-4989-a096-dd40b9d1c39f.jpg)
+
+<h3>Keyboard</h3>
+The keyboard is made out of three pieces all made from bendy paperboard. It will rest on an L-shaped box which is closed in on other side by rectangular prisms. Dimensions are shown below (cut on solid lines, fold on dashed lines): 
+
+<img width="1002" alt="Screen Shot 2023-05-08 at 12 43 38 PM" src="https://user-images.githubusercontent.com/34355688/236881647-ee19f82a-c83b-41fb-9784-add7c341e3f2.png">
+
