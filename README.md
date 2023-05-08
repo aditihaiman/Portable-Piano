@@ -13,7 +13,7 @@ Choosing the correct ESP32 pins for the buttons might take some trial and errorâ
 <h2>Software</h2>
 The Arduino tone library is not supported on ESP32s, I tried several methods to get around this. I settled on the ToneESP32 library which provides the same functionality as the Arduino tone library. The library is available above or here: https://github.com/weedmanu/ToneESP32. This was the only library that worked in playing tones without excessive noise. However, the tone function requires a duration which produces a slight beeping effect when a key is pressed for a long time. This is something I would like to experiment with more to improve the sound quality.
 
-To most accurately simulate the reaction time of a piano, I used interrupts. Each pin corresponding to a button behaves as an interrupt that reads the pin value when a change is detected (both during a rising or falling edge). Overall, the code is fairly simply, with a tone being played if a button has been pressed. However, only one tone can play at a time, so pressing multiple buttons will still only play one tone. 
+To most accurately simulate the reaction time of a piano, I used interrupts. Each pin corresponding to a button behaves as an interrupt that reads the pin value when a change is detected (both during a rising or falling edge). Overall, the code is fairly simple, with a tone being played if a button has been pressed. However, only one tone can play at a time, so pressing multiple buttons will still only play one tone. 
 
 To get the code working, simply flash it onto the ESP32 and connect all the hardware as shown above. Make sure the button and speaker pins numbers in the code match the arrangement of the hardware.
 
