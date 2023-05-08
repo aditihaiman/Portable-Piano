@@ -41,5 +41,8 @@ The bulk of the work went into building the enclosure and figuring out how to bu
 <h3>Body and legs</h3>
 To make the base, cut out a grand piano shaped size of sturdy paperboard. Mine had a length of about 14.5in and width of 11.5in. The exact dimensions don't really matter just make sure to leave an extra inch lengthwise or so for the keyboard area. Cut out a length of bendy paperboard for the rim of the piano. Bend the rim around the frame and glue it down. Once the glue has dried, paint everything black with a sponge brush to ensure an even coat. Use a small bristle brush for the parts that are hard to reach. You should have something that looks like this: 
 
+![IMG_9128](https://user-images.githubusercontent.com/34355688/236874025-46fe87cd-0477-42da-8681-ba0730f38467.jpg)
+
+
 
 <img width="936" alt="Screen Shot 2023-05-08 at 11 57 11 AM" src="https://user-images.githubusercontent.com/34355688/236871769-3c8a4ce4-e877-4e26-b24c-9b33391f1be1.png">
