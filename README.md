@@ -39,7 +39,7 @@ The bulk of the work went into building the enclosure and figuring out how to bu
 </ul>
 
 <h3>Body and legs</h3>
-To make the base, cut out a grand piano shaped size of sturdy paperboard. Mine had a length of about 14.5in and width of 11.5in. The exact dimensions don't really matter just make sure to leave an extra inch lengthwise or so for the keyboard area. Cut out a length of bendy paperboard for the rim of the piano. Bend the rim around the frame and glue it down. Once the glue has dried, paint everything black with a sponge brush to ensure an even coat. Use a small bristle brush for the parts that are hard to reach. You should have something that looks like this: 
+To make the base, cut out a grand piano shaped size of sturdy paperboard. Mine had a length of about 14.5in and width of 11.5in. Cut a small hole in the back of the base to fit a USB-C cable that will power the piano. The exact dimensions don't really matter just make sure to leave an extra inch lengthwise or so for the keyboard area. Cut out a length of bendy paperboard for the rim of the piano. Bend the rim around the frame and glue it down. Once the glue has dried, paint everything black with a sponge brush to ensure an even coat. Use a small bristle brush for the parts that are hard to reach. You should have something that looks like this: 
 
 ![IMG_9128](https://user-images.githubusercontent.com/34355688/236874543-0252b8ef-d431-4921-b5af-e4015e178fdc.png)
 
@@ -67,6 +67,6 @@ Now all that's left is putting together the keyboard. Cut out a thin, long piece
 
 ![IMG_9384](https://user-images.githubusercontent.com/34355688/236889913-691fcd4b-6584-483f-b13c-e37752251391.jpg)
 
-Connect the wires to the ESP32, place the keyboard in its box, place the music stand on its rests, and admire your work! 
+Connect the wires to the ESP32, place the keyboard in its box, place the music stand on its rests, and admire your work!
 
-
+![IMG_9400](https://user-images.githubusercontent.com/34355688/236960219-87b42653-16ee-4057-bef9-261f4b666a58.JPG)
