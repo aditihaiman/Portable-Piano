@@ -5,6 +5,8 @@ The inspiration behind this project was to create a miniature model of a grand p
 
 See my demo video here: https://youtu.be/I1Qyr8JF324
 
+Read more about the artistic vision here: https://medium.com/@ah3820/portable-piano-10ae856a90e4
+
 <h2>Hardware</h2>
 The hardware involved in this project included the following: an <a href="https://www.amazon.com/LILYGO-T-Display-Arduino-Development-CH9102F/dp/B099MPFJ9M?th=1">ESP32 TTGO T-display</a>, ten <a href="https://www.adafruit.com/product/3101?gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutmiu32D4X_OT_O9jRZb08zuguUAwx8xPmHqIJxUwAfb7TyfkgBVUAcaAqpwEALw_wcB">pushbuttons</a> (preferably soft/squishy ones), an <a href="https://www.amazon.com/HiLetgo-LM386-Audio-Amplifier-Module/dp/B00LNACGTY">LM386 amplifier</a>, an <a href="https://www.amazon.com/Uxcell-a15080600ux0275-Internal-Magnet-Speaker/dp/B0177ABRQ6/ref=sr_1_3?keywords=8+Ohm+Speakers&qid=1683555958&sr=8-3">8-ohm speaker</a>, a breadboard, and a good supply of wires. See the diagram below for details on how to wire the components together.
 
